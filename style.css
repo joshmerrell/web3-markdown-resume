@@ -1,9 +1,23 @@
 /* Your Styles */
+h1 {
+    font-size: 2em;
+}
 
+h1, h2, h3 {
+    margin-bottom: -0.5em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+@page {
+    margin-top: 5mm;
+    margin-bottom: 10mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+}
 
 /* Print Styling */
 @media print {
-
-    
-
 }
