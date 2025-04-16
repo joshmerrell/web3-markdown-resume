@@ -4,7 +4,7 @@
 12345 Street St<br/>
 Spokane, WA 90605<br/>
 jmerrell2@ewu.edu<br/>
-https://github.com/joshmerrell
+<a href="https://github.com/joshmerrell">https://github.com/joshmerrell</a>
 </div>
 
 ## Highlights

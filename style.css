@@ -11,7 +11,7 @@ h1, h2, h3 {
 }
 
 h1:first-of-type {
-    color: darkgray;
+    color: #808080;
 }
 
 div.address {
@@ -20,6 +20,16 @@ div.address {
 
 h2 {
     font-size: 1.5em;
+    color: #00660F;
+}
+
+h3 {
+    color: #009917;
+}
+
+a {
+    color: #6495ED;
+    text-decoration: none;
 }
 
 li {
