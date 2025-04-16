@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "build": "md-to-pdf README.md --stylesheet style.css",
-    "watch": "md-to-pdf README.md --stylesheet style.css -w"
+    "build": "md-to-pdf resume.md --stylesheet style.css",
+    "watch": "md-to-pdf resume.md --stylesheet style.css -w"
   },
   "dependencies": {
     "md-to-pdf": "^5.2.4"

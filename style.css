@@ -1,4 +1,7 @@
-/* Your Styles */
+body {
+    font-family: sans-serif;
+}
+
 h1 {
     font-size: 2em;
 }
@@ -7,8 +10,44 @@ h1, h2, h3 {
     margin-bottom: -0.5em;
 }
 
+h1:first-of-type {
+    color: darkgray;
+}
+
+div.address {
+    text-align: right;
+}
+
 h2 {
     font-size: 1.5em;
+}
+
+li {
+    list-style: square;
+}
+
+ul:first-of-type {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2, .education {
+    text-align: center;
+}
+
+.education {
+    border-top: 1px dashed darkgray;
+    border-bottom: 1px dashed darkgray;
+}
+
+.education li {
+    list-style: none;
+}
+
+.generated {
+    font-style: italic;
+    text-align: right;
+    margin-top: 4em;
 }
 
 @page {
